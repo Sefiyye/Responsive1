@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.row {
+  padding-top: 60px;
+}
+
+.row .icon1 {
+  color: blue;
+  font-size: 40px;
+  padding-bottom: 30px;
+}
+
+#main .cards {
+  text-align: center;
+  margin: 20px;
+}
+/*# sourceMappingURL=main.css.map */
